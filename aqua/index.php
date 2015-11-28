@@ -8,7 +8,6 @@
         <meta name="keywords" content="Program kemitraan FBS baru yang revolusioner" />
         <meta name="description" content="Program kemitraan FBS baru yang revolusioner" />
         <link href="assets/bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet">
-        <!-- <link rel="stylesheet" href="http://landing.idnfbs.com/ru/partner-new/style.css" type="text/css" media="screen, projection" /> -->
         <link rel="stylesheet" href="css/style.css" type="text/css" media="screen, projection">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600&subset=latin,vietnamese,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="http://landing.idnfbs.com/ru/partner-new/js/jquery.ui.slider.css">
@@ -67,7 +66,6 @@
     </head>
     <body>
         <div class="background">
-            <!-- <img src="images/background.jpeg" alt="" class="img-background"> -->
             <div class="container col-null">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-null">
                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-null banner-left">
@@ -87,16 +85,13 @@
                                 <span>Buka akun</span>
                             </div>
                             <div class="t-bot"><a href="http://my.idnfbs.com">Saya sudah memiliki akun di FBS</a></div>
-                                                    <p class="text_count">Lebih dari 130 000 mitra di seluruh dunia<br/></p>
-                        <p class="text_count mt_5"><b>Program kemitraan FBS baru yang revolusioner</b></p>
+                            <p class="text_count">Lebih dari 130 000 mitra di seluruh dunia<br/></p>
+                            <p class="text_count mt_5"><b>Program kemitraan FBS baru yang revolusioner</b></p>
                         </form>
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-null">
-<!--                         <p class="text_count">Lebih dari 130 000 mitra di seluruh dunia<br/></p>
-                        <p class="text_count mt_5"><b>Program kemitraan FBS baru yang revolusioner</b></p> -->
                         <p class="text_lot ml_20">15$ per 1 lot untuk EUR/USD <sup class="fs_12">dan lebih banyak!</sup></p>
                         <p class="text_count_big mt_20">berlaku hingga akhir 2015</p>
-                        <!-- slider -->
                         <div class="calc">
                             <div class="head_calc">Hitung profit Anda</div>
                             <div id="slider">
@@ -116,7 +111,6 @@
                                 </div>
                             </div>
                             <div class="text_count_big_l">Hasil bulanan Anda: <div class="summa" id="summa">200$</div></div>
-                            <div class="sliders_bg"></div>
                             <div class="sliders_bg2"></div>
                         </div>
                     </div>
@@ -128,18 +122,14 @@
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 text_count_middle">
                         <blockquote><b class="salad">Kami mematahkan stereotype kemitraan</b><br/>
-                        - Pembayaran komisi kepada setiap klien seumur hidup<br/>
-                        - Penarikan dana setiap hari mulai dari $1 melalui pilihan pembayaran apapun<br/>
+                            - Pembayaran komisi kepada setiap klien seumur hidup<br/>
+                            - Penarikan dana setiap hari mulai dari $1 melalui pilihan pembayaran apapun<br/>
                         - Statistik rinci secara online<br/></blockquote>
                     </div>
-             <!--        <blockquote>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-  <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
-</blockquote> -->
-                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 text_count_middle gariskanan">
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 text_count_middle margintop">
                         <blockquote><b class="salad">Kami menggandakan kesempatan Anda:</b><br/>
-                        - Materi promosi gratis untuk menarik lebih banyak klien<br/>
-                        - Personal manager untuk menyelesaikan semua masalah secara cepat<br/>
+                            - Materi promosi gratis untuk menarik lebih banyak klien<br/>
+                            - Personal manager untuk menyelesaikan semua masalah secara cepat<br/>
                         - Hadiah-hadiah bergengsi dan kontes dengan hadiah-hadiah yang berharga<br/></blockquote>
                     </div>
                 </div>
