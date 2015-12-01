@@ -120,7 +120,7 @@
 <div class="col-xs-12 col-sm-12 col-md-7 col-lg-7 col-nul tengah">
 		<div class="calc1 tengah">
 			<div class="head_calc">Hitung profit Anda</div>
-			<div id="slider" class="img-responsive">
+			<div id="slider" class="img-responsive slider">
 				<div class="left-min">10</div>
 				<div class="right-max">999</div>
 				<div class="count">
@@ -128,7 +128,7 @@
 					<div class="right-b">10</div>
 				</div>
 			</div>
-			<div id="slider2" class="img-responsive">
+			<div id="slider2" class="img-responsive slider">
 				<div class="left-min">1</div>
 				<div class="right-max">50</div>
 				<div class="count">

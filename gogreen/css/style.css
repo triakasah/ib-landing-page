@@ -7,6 +7,10 @@
 	padding-top: 20px;
 	margin-bottom: 0px;
 }
+.slider{
+    width: 85% !important;
+    background-repeat: no-repeat !important;
+}
 .middle {
     padding: 20px;
     font-size: 14px;

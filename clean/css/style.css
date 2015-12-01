@@ -13,6 +13,10 @@
     position: relative;
     font-weight: bold;
 }
+.slider{
+    width: 85% !important;
+    background-repeat: no-repeat !important;
+}
 .fs_12px {
     font-size: 12px !important;
     color: #2B2422;
