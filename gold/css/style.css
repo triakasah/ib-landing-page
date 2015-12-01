@@ -4,11 +4,11 @@ html {height: 100%;}
 body {
     width: 100%;
     height: 100%;
-    background: url(../images/gold4.jpg) no-repeat scroll 0 0 rgb(32, 16, 3);
-    background-size: 1270px;
+    background: url(../images/gold3.jpg) no-repeat scroll 0 0 rgb(32, 16, 3);
+    background-size: 100%;
 }
 
-a {color:#7dac39; outline: none; text-decoration: none;}
+a {color:#c6ff00; outline: none; text-decoration: none;}
 a:hover {text-decoration: none;}
 table {border-collapse: collapse;}
 img {border: none;}
@@ -53,13 +53,13 @@ textarea:focus, input:focus{outline: none;}
 }
 .fs_12 {
     font-size: 12px !important;
-    color: #000;
+    color: #fff;
     margin-left: -10px;
     top: -20px;
 }
 .text_count_big {
     font-size: 36px;
-    color: #000;
+    color: #fff;
     text-align: center;
     width: 100%;
     line-height: 24px;
@@ -273,6 +273,7 @@ textarea:focus, input:focus{outline: none;}
 .mt_10 {
     margin-top: 10px !important;
     margin-bottom: 30px;
+    color: #c6ff00 !important;
 }
 .tc_gr1 {
     color: #838383 !important;
@@ -293,7 +294,8 @@ textarea:focus, input:focus{outline: none;}
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    margin-left: 30px;
+    margin-left: 10px;
+    margin-right: 20px;
 }
 .form input[type="text"].error, .form input[type="password"].error {
     border-color:red;
@@ -332,7 +334,7 @@ textarea:focus, input:focus{outline: none;}
 }
 .text_count {
     font-size: 28px;
-    color: #000;
+    color: #fff;
     text-align: center;
     width: 100%;
     line-height: 24px;
@@ -372,7 +374,7 @@ textarea:focus, input:focus{outline: none;}
     margin-bottom: 80px;
 }
 .salad{
-    color: #c6ff00;
+    color: #F9E87E;
 }
 .font14px{
     font-size: 14px;
@@ -381,6 +383,9 @@ textarea:focus, input:focus{outline: none;}
 .form .error-mes {color:red; font-size:12px; margin-top:-5px;}
 
 @media(max-width: 1199px){
+    body{
+        background-size: 1270px;
+    }
     .text_lot {
         width: 80%;
         margin-left: 11%;
@@ -409,9 +414,15 @@ textarea:focus, input:focus{outline: none;}
     }
 }
 
+@media(max-width: 875px){
+    body{
+        background-size: 1600px;
+    }
+}
+
 @media (max-width: 680px){
     body {
-        background-size: 1600px;
+        background-size: 2000px;
     }
     .calc {
         padding-left: 10%;

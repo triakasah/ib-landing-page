@@ -71,7 +71,7 @@
             <div class="text_count_big mt_20">berlaku hingga akhir 2015</div>
         </div>
         <div class="text_count">Lebih dari 130 000 mitra di seluruh dunia<br/></div>
-        <div class="text_count mt_10"><b class="salad">Program kemitraan FBS baru yang revolusioner</b></div>
+        <div class="text_count mt_10"><b>Program kemitraan FBS baru yang revolusioner</b></div>
         <div class="content_place1">
             <form class="form" method="get" action="https://my.idnfbs.com/registration">
                 <div class="t2">
