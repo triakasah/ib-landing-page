@@ -70,6 +70,28 @@
             <div class="text_lot col-null">15$ per 1 lot untuk EUR/USD <sup class="fs_12">dan lebih banyak!</sup></div>
             <div class="text_count_big mt_20">berlaku hingga akhir 2015</div>
         </div>
+        <div class="text_count">Lebih dari 130 000 mitra di seluruh dunia<br/></div>
+        <div class="text_count mt_10"><b class="salad">Program kemitraan FBS baru yang revolusioner</b></div>
+        <div class="content_place1">
+            <form class="form" method="get" action="https://my.idnfbs.com/registration">
+                <div class="t2">
+                    Buka Account
+                </div>
+                <div class="text_count_small mt_10 tc_gr1">Member baru bisa request $5.<br/> Tanpa perlu deposit.</div>
+                <center><div>
+                    <input type="hidden" value="micro" name="account">
+                    <input type="hidden" value="id" name="lang">
+                    <input type="hidden" value="450471" name="ppu">
+                    <input placeholder="Nama lengkap" type="text" name="name" class="kolom-input"/>
+                    <input placeholder="E-mail Anda" type="text" name="email" class="kolom-input"/>
+                </div></center>
+                <div class="subm">
+                    <input type="submit" class="" value="" />
+                    <span>Buka akun</span>
+                </div>
+                <div class="t-bot"><a href="http://my.idnfbs.com">Saya sudah memiliki akun di FBS</a></div>
+            </form>
+        </div>
         <div class="content_place">
             <div class="calc">
                 <div class="head_calc">Hitung profit Anda</div>
@@ -93,33 +115,11 @@
                 <div class="sliders_bg"></div>
                 <div class="sliders_bg2"></div>
             </div>
-            <form class="form" method="get" action="https://my.idnfbs.com/registration">
-                <div class="t2">
-                    Buka Account
-                </div>
-                <div class="text_count_small mt_10 tc_gr1">Member baru bisa request $5.<br/> Tanpa perlu deposit.</div>
-                <div class="inp">
-                    <input type="hidden" value="micro" name="account">
-                    <input type="hidden" value="id" name="lang">
-                    <input type="hidden" value="450471" name="ppu">
-                    <input placeholder="Nama lengkap" type="text" name="name"/>
-                    <input placeholder="E-mail Anda" type="text" name="email"/>
-                </div>
-                <div class="subm">
-                    <input type="submit" class="" value="" />
-                    <span>Buka akun</span>
-                </div>
-                <div class="t-bot"><a href="http://my.idnfbs.com">Saya sudah memiliki akun di FBS</a></div>
-            </form>
-        </div>
-        <div class="content_place">
-            <div class="text_count">Lebih dari 130 000 mitra di seluruh dunia<br/></div>
-            <div class="text_count mt_10"><b class="salad">Program kemitraan FBS baru yang revolusioner</b></div>
             <div class="text_count_middle">
-                <blockquote class="no-line">
+                <blockquote>
                     <b class="salad">Kami mematahkan stereotype kemitraan</b><br/>
                     <p class="font14px">- Pembayaran komisi kepada setiap klien seumur hidup<br/>
-                    - Penarikan dana setiap hari mulai dari $1 melalui pilihan pembayaran apapun<br/>
+                        - Penarikan dana setiap hari mulai dari $1 melalui pilihan pembayaran apapun<br/>
                     - Statistik rinci secara online<br/></p>
                 </blockquote>
             </div>
@@ -127,17 +127,19 @@
                 <blockquote>
                     <b class="salad">Kami menggandakan kesempatan Anda:</b><br/>
                     <p class="font14px">- Materi promosi gratis untuk menarik lebih banyak klien<br/>
-                    - Personal manager untuk menyelesaikan semua masalah secara cepat<br/>
+                        - Personal manager untuk menyelesaikan semua masalah secara cepat<br/>
                     - Hadiah-hadiah bergengsi dan kontes dengan hadiah-hadiah yang berharga<br/></p>
                 </blockquote>
             </div>
+        </div>
+        <div class="content_place">
             <div class="text_count_big2">Sementara Anda membaca halaman ini FBS membayarkan kepada partnernya sekitar 200 000$!</div>
             <div class="text_count_middle2">
                 <b class="salad">Penghargaan kami</b><br/>
                 <a href="http://www.idnfbs.com/id/awards"><center><img src="http://landing.idnfbs.com/ru/partner-new/images/nagr.png" class="img-responsive" /></center></a>
             </div>
         </div>
-        <div class="text_count_small mt_10 mb_40 tc_gr1">
+        <div class="text_count_small back-footer">
             <a href="http://www.fbs.market/">www.fbs.com</a><br />
             <a href="http://www.fbs.com/sites/default/files/doc/fbs_privacy_policy.pdf" target="_blank">Privacy Policy</a>
         </div>
