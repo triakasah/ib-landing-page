@@ -5,7 +5,7 @@ body {
     width: 100%;
     height: 100%;
     background: url(../images/cheer4.jpg) no-repeat scroll 0 0 rgb(32, 16, 3);
-    background-size: 1750px;
+    background-size: 100%;
 }
 
 a {color:#7dac39; outline: none; text-decoration: none;}
@@ -19,21 +19,17 @@ textarea:focus, input:focus{outline: none;}
 .clear {clear:both; height:0px;}
 .nowrap {white-space:nowrap;}
 
+.logo_place {
+    width: 100%;
+    overflow: hidden;
+}
 .logo {
     width: 150px;
     height: 150px;
-    top: 80px;
+    margin: 50px auto;
     background: url(../images/logo.jpg) no-repeat;
-    left: 50%;
-    margin-left: -75px;
     position: relative;
     z-index: 10;
-}
-.logo_place {
-    width: 100%;
-    background-size: 100%;
-    padding-bottom: 50px;
-    overflow: hidden;
 }
 .col-null{
     margin-left: 0;
@@ -43,19 +39,11 @@ textarea:focus, input:focus{outline: none;}
     font-size: 74px;
     color: #c6ff00;
     text-align: center;
-    width: 100%;
     line-height: 80px;
-    margin-top: 100px;
     z-index: 10;
     position: relative;
     font-weight: bold;
     text-shadow: 0 10px 20px #182a07;
-}
-.fs_12 {
-    font-size: 12px !important;
-    color: #fff;
-    margin-left: -10px;
-    top: -20px;
 }
 .text_count_big {
     font-size: 36px;
@@ -63,179 +51,49 @@ textarea:focus, input:focus{outline: none;}
     text-align: center;
     width: 100%;
     line-height: 24px;
-    margin-top: 80px;
+    margin-top: 20px;
     position: relative;
     z-index: 10;
 }
-.mt_20 {
-    margin-top: 20px !important;
-}
 .content_place {
     padding-bottom: 30px;
+    padding-top: 50px;
+    margin: auto;
     overflow: hidden;
     width: 100%;
     position: relative;
 }
 .calc {
     float: left;
-    margin-top: 22px;
     width: 60%;
-    padding-left: 70px;
+     padding-bottom: 50px;
+    background: rgba(245, 215, 110, .3);
+    box-shadow: 1px 1px 10px rgb(58, 31, 10);
 }
 .head_calc {
     font-size: 24px;
     font-weight: 700;
-    margin-left: -30px;
-    margin-right: 40px;
     color: #ffffff;
     text-align: left;
     line-height: 24px;
     z-index: 10;
-    margin-bottom: 20px;
+    margin: 20px;
 }
-
-#slider {margin-top: 94px; width:473px; height:9px; background:url(../images/line.png);}
-#slider .ui-slider-handle {width:25px; height:25px; top:-8.5px; margin-left:-12.5px; border-radius:50%; cursor:move; z-index:3;}
-#slider .left-min, #slider .right-max {
-    font-size: 15px;
-    line-height: 15px;
-    position: absolute;
-    top: -4px;
-    white-space: nowrap;
-}
-#slider .left-min {
-    right: 100%;
-    margin-right: 20px;
-}
-#slider .right-max {
-    left: 100%;
-    margin-left: 20px;
-}
-#slider .count {
-    display: block;
-    position: absolute;
-    background: url(../images/handle.png);
-    width: 73px;
-    height: 59px;
-    top: -42px;
-    cursor: default;
-    z-index: 2;
-    margin-left: -37px;
-}
-#slider .count .r-t {
-    color: #2C3E50;
-    font-size: 12px;
-    height: 26px;
-    left: 73px;
-    line-height: 13px;
-    position: absolute;
-    top: -7px;
-    width: 121px;
-}
-#slider .count .right-b {
-    height: 30px;
-    width: 50px;
-    background: #fff;
-    border-radius: 5px;
-    font-size: 20px;
-    line-height: 30px;
-    color: #585858;
-    font-weight: 700;
-    text-align: center;
-    position: absolute;
-    left: 10px;
-    top: -8px;
-    padding: 0 3px 0 0;
-}
-
-#slider2 {margin-top: 94px; width:473px; height:9px; background:url(../images/line.png);}
-#slider2 .ui-slider-handle {width:25px; height:25px; top:-8.5px; margin-left:-12.5px; border-radius:50%; cursor:move; z-index:3;}
-#slider2 .left-min, #slider2 .right-max {
-    font-size: 15px;
-    line-height: 15px;
-    position: absolute;
-    top: -4px;
-    white-space: nowrap;
-}
-#slider2 .left-min {
-    right: 100%;
-    margin-right: 20px;
-}
-#slider2 .right-max {
-    left: 100%;
-    margin-left: 20px;
-}
-#slider2 .count {
-    display: block;
-    position: absolute;
-    background: url(../images/handle.png);
-    width: 73px;
-    height: 59px;
-    top: -42px;
-    cursor: default;
-    z-index: 2;
-    margin-left: -37px;
-}
-#slider2 .count .r-t {
-    font-size: 12px;
-    height: 26px;
-    left: 73px;
-    line-height: 13px;
-    position: absolute;
-    top: -7px;
-    width: 150px;
-}
-#slider2 .count .right-b {
-    height: 30px;
-    width: 50px;
-    background: #fff;
-    border-radius: 5px;
-    font-size: 20px;
-    line-height: 30px;
-    color: #585858;
-    font-weight: 700;
-    text-align: center;
-    position: absolute;
-    left: 10px;
-    top: -8px;
-    padding: 0 3px 0 0;
-}
-
 .text_count_big_l {
     font-size: 18px;
     color: #ffffff;
     text-align: left;
     width: 100%;
-    margin-left: -30px;
     line-height: 30px;
     position: relative;
-    float: left;
-    margin-top: 30px;
-}
-.summa {
-    font-size: 45px;
-    color: #000;
-    font-weight: 600;
-    float: right;
-    margin-right: 15%;
+    margin-top: 20px;
+    margin-left: 3%;
 }
 .form .t-bot {
     margin-top: 15px;
     font-size: 12px;
     color: #fff;
     text-align: center;
-}
-.sliders_bg {
-    height: 216px;
-    margin-top: -188px;
-    margin-left: -50px;
-    width: 590px;
-}
-.sliders_bg2 {
-    height: 370px;
-    margin-left: -50px;
-    margin-top: -288px;
-    width: 610px;
 }
 .form {
     float: left;
@@ -244,7 +102,7 @@ textarea:focus, input:focus{outline: none;}
     padding: 20px;
     box-shadow: 0 0 20px rgba(0,0,0,0.7);
     z-index: 5;
-    margin-left: 50px;
+    margin-left: 3%;
 }
 .form .t2 {
     margin-top: 8px;
@@ -256,23 +114,18 @@ textarea:focus, input:focus{outline: none;}
 }
 .text_count_small {
     font-size: 14px;
-    color: #ffffff;
     text-align: center;
     width: 100%;
     line-height: 20px;
-    margin-top: 20px;
     position: relative;
     z-index: 10;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: #838383;
 }
 .mt_10 {
-    margin-top: 10px !important;
+    margin-top: 10px;
     margin-bottom: 30px;
-}
-.tc_gr1 {
-    color: #838383 !important;
-}
-.form .inp {
-    margin-top: 28px;
 }
 .form input[type="text"], .form input[type="password"] {
     font-size: 14px;
@@ -321,78 +174,53 @@ textarea:focus, input:focus{outline: none;}
     border:none;
     background:none;
 }
-.text_count {
-    font-size: 28px;
-    color: #ffffff;
-    text-align: center;
+.text_count, .text_count_middle, .text_count_big2, .text_count_middle2{
     width: 100%;
-    line-height: 24px;
-    margin-top: 40px;
+    color: #fff;
     position: relative;
+}
+.text_count {
+    font-size: 18px;
+    text-align: center;
+    line-height: 24px;
     z-index: 10;
 }
 .text_count_middle {
-    width: 50%;
-    padding: 0;
-    font-size: 14px !important;
-    color: white;
-    position: relative;
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin: 40px auto;
     float: left;
+}
+.fs_30{
+    font-size: 30px;
+    border: none;
 }
 .text_count_big2 {
     font-size: 30px;
-    color: #ffffff;
     text-align: center;
-    width: 100%;
     line-height: 40px;
     margin-bottom: 50px;
-    position: relative;
     z-index: 10;
 }
 .text_count_middle2 {
-    width: 100%;
-    padding: 20px;
+    margin-top: 50px;
     font-size: 14px;
-    color: #ffffff;
     text-align: center;
     line-height: 30px;
-    position: relative;
     float: left;
     margin-bottom: 80px;
 }
 .salad{
     color: #c6ff00;
 }
-.font14px{
-    font-size: 14px;
-}
-.no-line{
-    border-left: none;
+.fs_20{
+    font-size: 20px;
 }
 
 .form .error-mes {color:red; font-size:12px; margin-top:-5px;}
 
-@media(max-width: 1174px){
-    .text_lot {
-        width: 90%;
-        margin-left: 5%;
-    }
-    .text_count_middle {
-        margin-top: 40px;
-        margin-bottom: 40px;
-    }
-}
-
 @media(max-width: 1017px){
     .calc {
         width: 100%;
-        padding-left: 20%;
-        background: rgba(208, 139, 46, .2);
-    }
-    .summa {
-        margin-right: 20%;
+        padding-left: 10%;
     }
     .form {
         width: 100%;
@@ -401,17 +229,7 @@ textarea:focus, input:focus{outline: none;}
 }
 
 @media (max-width: 768px){
-    .text_lot {
-        width: 100%;
-        margin-left: 0;
-    }
-    .calc {
-        padding-left: 10%;
-    }
-    #slider, #slider2 {
-        width: 80%;
-    }
-    .summa {
-        margin-right: 0;
+    .text_count_big{
+        line-height: normal;
     }
 }
