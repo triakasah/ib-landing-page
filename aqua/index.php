@@ -3,10 +3,10 @@
     <head>
         <meta content="IE=EmulateIE9,IE=edge" http-equiv="X-UA-Compatible" />
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-        <title>Program kemitraan FBS baru yang revolusioner</title>
-        <meta name="title" content="Program kemitraan FBS baru yang revolusioner" />
-        <meta name="keywords" content="Program kemitraan FBS baru yang revolusioner" />
-        <meta name="description" content="Program kemitraan FBS baru yang revolusioner" />
+        <title>FBS Solusi Investasi Perdagangan Keuangan Anda</title>
+        <meta name="title" content="FBS Solusi Investasi Perdagangan Keuangan Anda" />
+        <meta name="keywords" content="FBS Solusi Investasi Perdagangan Keuangan Anda" />
+        <meta name="description" content="Mari bergabung bersama kami guna meningkatkan investasi perdagangan anda dan meraih kesuksesan bersama kami. Dan saatnya Waktu yang paling tepat untuk membuka akun Forex, sesuai dengan kebutuhan Anda" />
         <link href="assets/bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet">
         <link rel="stylesheet" href="css/style.css" type="text/css" media="screen, projection">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600&subset=latin,vietnamese,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
@@ -76,7 +76,7 @@
                             <div class="inp">
                                 <input type="hidden" value="micro" name="account">
                                 <input type="hidden" value="id" name="lang">
-                                <input type="hidden" value="450471" name="ppu">
+                                <input type="hidden" value="472940" name="ppu">
                                 <center><input placeholder="Nama Lengkap" type="text" name="name" class="input-form" /><br></center>
                                 <center><input placeholder="E-mail Anda" type="text" name="email" class="input-form"/></center>
                             </div>
@@ -85,15 +85,15 @@
                                 <span>Buka akun</span>
                             </div>
                             <div class="t-bot"><a href="http://my.idnfbs.com">Saya sudah memiliki akun di FBS</a></div>
-                            <p class="text_count">Lebih dari 130 000 mitra di seluruh dunia<br/></p>
-                            <p class="text_count mt_5"><b>Program kemitraan FBS baru yang revolusioner</b></p>
+                                <p class="text_count">Lebih dari 805.863 trader aktif di FBS<br/></p>
                         </form>
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-null">
-                        <p class="text_lot ml_20">15$ per 1 lot untuk EUR/USD <sup class="fs_12">dan lebih banyak!</sup></p>
-                        <p class="text_count_big mt_20">berlaku hingga akhir 2015</p>
+                        <p class="text_lot">BEBAS KOMISI DAN SWAP!</p>
+                        <p class="text_count_big">FBS SOLUSI INVESTASI PERDAGANGAN KEUANGAN ANDA</p>
+                        <p class="text_count mt_color"><b>Mari bergabung bersama kami guna meningkatkan investasi perdagangan anda dan meraih kesuksesan bersama kami <br> Dan saatnya Waktu yang paling tepat untuk membuka akun Forex, sesuai dengan kebutuhan Anda</b></p>
                         <div class="calc">
-                            <div class="head_calc">Hitung profit Anda</div>
+                            <!--                             <div class="head_calc">Hitung profit Anda</div>
                             <div id="slider">
                                 <div class="left-min">10</div>
                                 <div class="right-max">999</div>
@@ -111,38 +111,44 @@
                                 </div>
                             </div>
                             <div class="text_count_big_l">Hasil bulanan Anda: <div class="summa" id="summa">200$</div></div>
-                            <div class="sliders_bg2"></div>
+                            <div class="sliders_bg2"></div> -->
+                            <div class="head_calc">Contact Person</div>
+                            <div class="text_count_big_l">Email : <a href="mailto:farelnovi@yahoo.co.id">farelnovi@yahoo.co.id </a></div>
+                            <div class="text_count_big_l">No HP : <a href="callto:082219182912">082219182912</a></div>
+                            <div class="text_count_big_l">Pin BBM : 25CEEDBE</div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <div class="background2">
-            <div class="container">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 text_count_middle">
-                        <blockquote><b class="salad">Kami mematahkan stereotype kemitraan</b><br/>
-                            - Pembayaran komisi kepada setiap klien seumur hidup<br/>
-                            - Penarikan dana setiap hari mulai dari $1 melalui pilihan pembayaran apapun<br/>
-                        - Statistik rinci secara online<br/></blockquote>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 text_count_middle margintop">
-                        <blockquote><b class="salad">Kami menggandakan kesempatan Anda:</b><br/>
-                            - Materi promosi gratis untuk menarik lebih banyak klien<br/>
-                            - Personal manager untuk menyelesaikan semua masalah secara cepat<br/>
-                        - Hadiah-hadiah bergengsi dan kontes dengan hadiah-hadiah yang berharga<br/></blockquote>
-                    </div>
+            <div class="container col-null">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text_count_middle col-null">
+                    <b class="salad">Keuntungan bergabung bersama kami :</b><br/><br>
+                    <blockquote>
+                        <p>
+                            •  Pilhan jenis akun mulai dari akun cent standard mikro dan unlimited <br>
+                            •  Deposit awal $1 <br>
+                            •  Spread floating yang diturunkan mulai dari 1 pips untuk EUR/USD  <br>
+                            •  Bertransaksi dengan EA dan strategi apapun diperbolehkan  <br>
+                            •  Volume lot minimum 0.01  <br>
+                            •  Kutipan tepat sampai 5 digit  <br>
+                            •  Eksekusi order STP tercepat mulai dari 0.3 detik  <br>
+                            •  Leverage sampai 1:2000  <br>
+                            •  Tidak ada requote
+                        </p>
+                    </blockquote>
                 </div>
             </div>
         </div>
-        <div class="background3">
-            <p class="text_count_big2">Sementara Anda membaca halaman ini FBS membayarkan kepada partnernya sekitar 200 000$!</p>
-        </div>
         <div class="background4 text_count_middle2">
-            <b class="salad">Penghargaan kami</b><br/>
-            <a href="http://www.idnfbs.com/id/awards"><img class="img-responsive img-reward" src="http://landing.idnfbs.com/ru/partner-new/images/nagr.png"/></a>
+            <div class="text_count_big2">Kami berharap Anda dapat meraih kebebasan finansial dan sukses Bersama kami!</div>
+            <div class="mt_60">
+                <b class="salad">Penghargaan kami</b><br/>
+                <a href="http://www.idnfbs.com/id/awards"><img class="img-responsive img-reward" src="http://landing.idnfbs.com/ru/partner-new/images/nagr.png"/></a>
+            </div>
             <div class="text_count_small">
-                <a href="http://www.fbs.market/">www.fbs.com</a><br />
+                <a href="https://my.idnfbs.com/registration?account=micro&lang=id&ppu=472940&name=&email=">www.idnfbs.com</a><br />
                 <a href="http://www.fbs.com/sites/default/files/doc/fbs_privacy_policy.pdf" target="_blank">Privacy Policy</a>
             </div>
             <div style="height:0; overflow:hidden;">
