@@ -1,21 +1,24 @@
-    .background-body{
+.background-body{
 	background-image: url(../images/backgroundb.png);
 }
+.contact-person{
+    display: block;
+    font-size: 18px;
+    color: #CECECD;
+    margin-top: 40px;
+    width: 100%;
+}
+.deposit{
+    color:#CECECD;
+    line-height: 25px;
+    font-size: 18px;
+    margin-bottom: 60px;
+}
 .middle {
-    padding: 20px;
-    font-size: 14px;
+    font-size: 30px;
+    line-height: 40px !important;
     color: #ffffff;
-    text-align: center;
     line-height: 20px;
-}
-.calc1 {
-    float: left;
-    margin-top: 22px;
-    width: 100% !important;
-    padding-left: 70px;
-}
-.right-profit{
-	float: right;
 }
 .line-height{
 	line-height: 45px !important;
@@ -26,9 +29,6 @@ a{
 a:hover{
 	color: white !important;
 	text-decoration: none !important;
-}
-.right{
-	float: right;
 }
 .logo1 {
     width: 150px;
@@ -44,7 +44,7 @@ a:hover{
     padding: 20px;
     box-shadow: none !important;
     z-index: 5;
-    margin-top: 100px;
+    margin-top: 100px !important;
 }
 .margin-col12{
 	margin-bottom: 50px;
@@ -55,31 +55,22 @@ a:hover{
 .content_place1 {
     padding-bottom: 30px;
 }
-.mt_41 {
-    margin-top: 40px !important;
-    margin-bottom: 50px;
-}
-.slide-bar{
-    width: 84% !important;
-    background-repeat: no-repeat !important;
-}
 @media (max-width: 1199px){
-    .calc1 {
-    float: none;
-    margin-top: 22px;
-    width: 100% !important;
-    padding-left: 70px;
-}
-.right-profit{
-    float: none;
-    margin: auto;
+.text_count {
+    margin-top: 40px !important;
 }
 .tengah{
     margin: auto;
     float: none !important;
 }
-    }
-@media (max-width: 992px){
+}
+@media (max-width: 991px){
+.deposit{
+    margin-bottom: 60px;
+    color:#CECECD;
+    line-height: 40px;
+    font-size: 20px;
+}
 .tengah{
     margin: auto;
     float: none !important;
@@ -91,7 +82,7 @@ a:hover{
     padding: 20px;
     box-shadow: none !important;
     z-index: 5;
-    margin-top: 100px;
+    margin-top: 100px !important;
 }
 }
 @media (max-width: 500px){
@@ -106,6 +97,6 @@ a:hover{
     padding: 20px;
     box-shadow: none !important;
     z-index: 5;
-    margin-top: 100px;
+    margin-top: 100px !important;
 }
 }
